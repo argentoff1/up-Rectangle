@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1653978603 source:c:\users\инет\desktop\up ded\up\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"functions.h"
+
+1653978604 source:c:\users\инет\desktop\up ded\up\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+	"C:\Users\инет\Desktop\up ded\up\functions.h"
+
+1653978604 c:\users\инет\desktop\up ded\up\functions.h
+
